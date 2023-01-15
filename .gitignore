@@ -1,3 +1,11 @@
+#curr
+
+*.bin
+*.cph
+*.exe
+*.vscode
+
+
 # Prerequisites
 *.d
 
